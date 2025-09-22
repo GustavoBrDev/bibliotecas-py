@@ -8,4 +8,7 @@ Abaixo segue um breve descritivo das aulas e o que foi visto em cada.
 
 ## Primeira Aula - 22/09/2025
 
-Nessa aula foi introduzido o Pandas e sua "integração" com os gráficos do **Matplot**.
+Nessa aula foi introduzido o Pandas e sua "integração" com os gráficos do **Matplot**. Para isso foram criado dois arquivos:
+
+* **pandas**: Analise exploratória do Pandas, utilização das primeiras funções (head, shape, tail, info, etc) e explicações inicias.
+* **pandas-titanic**: Analise de dados do banco de dados da tragédia do titanic, aplicação prática das funções do pandas.
