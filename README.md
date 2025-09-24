@@ -28,6 +28,12 @@ O Pandas é uma biblioteca amplamente utilizado para **Data Science**. Ele const
 
 Sua principal funcionalidade gira em torno dos chamados **Data Frames** permitindo a analise de planilhas excel, arquivos csv, outros conectores de dados em insights valiosos. Em poucos comandos como **info, head, tail, describe** você poderá identificar a qualidade e estrutura de seus dados.
 
+## Matplot
+
+O Matplot é uma biblioteca ampliamente utilizada para exibição de dados através de gráficos. Ele fornece os principais tipos de gráficos como **pizza, barras, histogramas, pontos, dispersão, etc**. Além disso, permite customização ampla ao mesmo tempo que permite integrações com o **numpy** e principalmente com o **pandas**.
+
+Acesse a documentação da mesma aqui: [https://matplotlib.org/stable/](https://matplotlib.org/stable/)
+
 <hr>
 
 ## Estrutura do Repositório
